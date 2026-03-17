@@ -1,6 +1,6 @@
 # OSI KATMANLARI
 
-<img align="right" src="image/osi-katmanlari/1773735745586.png" />
+<img align="right" src="image/osi-katmanlari/1773735745586.png" >
 
 ### 1. Physical Layer	(Fiziksel Katman)
 
